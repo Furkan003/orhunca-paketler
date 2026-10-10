@@ -1,0 +1,14 @@
+{
+  "ad": "sahte_veri",
+  "açıklama": "Deneme ve sunum için Türkçe sahte veri: ad, soyad, şehir, telefon, e-posta, adres, şirket, tarih, geçerli T.C. kimlik no, metin",
+  "sahip": "Furkan003",
+  "sürümler": [
+    {
+      "izinler": [],
+      "işleme": "7d3671c07cdee1a64f4a666beedec20888095681",
+      "kaynak": "github:Furkan003/Orhunca#v1.1.1:kütüphaneler/sahte_veri",
+      "sürüm": "1.0.0",
+      "özet": "sha256:14dc7ee288986a251703b75103321c04b9fc351facac055c40be81108156f80b"
+    }
+  ]
+}

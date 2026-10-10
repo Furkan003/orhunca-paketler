@@ -1,0 +1,14 @@
+{
+  "ad": "özet",
+  "açıklama": "SHA-256, HMAC, Base64, CRC32 ve tuzlu şifre karması (giriş sistemleri için)",
+  "sahip": "Furkan003",
+  "sürümler": [
+    {
+      "izinler": [],
+      "işleme": "7d3671c07cdee1a64f4a666beedec20888095681",
+      "kaynak": "github:Furkan003/Orhunca#v1.1.1:kütüphaneler/özet",
+      "sürüm": "1.0.0",
+      "özet": "sha256:0b0895be9cb0ff31be40b8adcafe6c89008a88cb309d0c1eee942012f567cd91"
+    }
+  ]
+}

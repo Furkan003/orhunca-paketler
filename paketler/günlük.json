@@ -1,0 +1,17 @@
+{
+  "ad": "günlük",
+  "açıklama": "Uygulama günlüğü (log): bilgi, uyarı, hata düzeyleri, zaman damgası, dosyaya ve ekrana yazma, JSON satırları",
+  "sahip": "Furkan003",
+  "sürümler": [
+    {
+      "izinler": [
+        "dosya",
+        "ortam"
+      ],
+      "işleme": "7d3671c07cdee1a64f4a666beedec20888095681",
+      "kaynak": "github:Furkan003/Orhunca#v1.1.1:kütüphaneler/günlük",
+      "sürüm": "1.0.0",
+      "özet": "sha256:d44291d95a8aba6fc0afc70ccefc475d9ca085a6a04a8e43c2c215f907c94050"
+    }
+  ]
+}

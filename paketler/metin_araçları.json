@@ -1,0 +1,14 @@
+{
+  "ad": "metin_araçları",
+  "açıklama": "Slug (adres metni), kısaltma, başlık biçimi, Levenshtein benzerliği, 'bunu mu demek istediniz', maskeleme, satır kaydırma, HTML temizleme",
+  "sahip": "Furkan003",
+  "sürümler": [
+    {
+      "izinler": [],
+      "işleme": "7d3671c07cdee1a64f4a666beedec20888095681",
+      "kaynak": "github:Furkan003/Orhunca#v1.1.1:kütüphaneler/metin_araçları",
+      "sürüm": "1.0.0",
+      "özet": "sha256:5c38464baf344084c5a31eb70ab8d4d8955dfe1c2b021c657f4eb9858c292d17"
+    }
+  ]
+}

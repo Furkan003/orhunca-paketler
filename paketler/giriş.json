@@ -1,0 +1,16 @@
+{
+  "ad": "giriş",
+  "açıklama": "Web uygulamaları için üyelik: kayıt, giriş, çıkış, roller, şifre değiştirme ve sıfırlama, deneme sınırı, form anahtarı (CSRF)",
+  "sahip": "Furkan003",
+  "sürümler": [
+    {
+      "izinler": [
+        "dosya"
+      ],
+      "işleme": "7d3671c07cdee1a64f4a666beedec20888095681",
+      "kaynak": "github:Furkan003/Orhunca#v1.1.1:kütüphaneler/giriş",
+      "sürüm": "1.0.0",
+      "özet": "sha256:99b302c010de82435ca7dc49b40bfcae19d3eb6814a4cfd283a45070bd612fa0"
+    }
+  ]
+}

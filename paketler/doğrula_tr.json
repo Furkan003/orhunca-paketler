@@ -1,0 +1,14 @@
+{
+  "ad": "doğrula_tr",
+  "açıklama": "Türkiye'ye özgü doğrulamalar: T.C. kimlik no, vergi no, IBAN, telefon, plaka, posta kodu; e-posta, kart (Luhn) ve şifre gücü",
+  "sahip": "Furkan003",
+  "sürümler": [
+    {
+      "izinler": [],
+      "işleme": "7d3671c07cdee1a64f4a666beedec20888095681",
+      "kaynak": "github:Furkan003/Orhunca#v1.1.1:kütüphaneler/doğrula_tr",
+      "sürüm": "1.0.0",
+      "özet": "sha256:5410a6c470aa1c7d9b6059f62530889367f51c7cd3369c353a28ee1b5fcd956d"
+    }
+  ]
+}

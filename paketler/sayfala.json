@@ -1,0 +1,14 @@
+{
+  "ad": "sayfala",
+  "açıklama": "Web listelerinde sayfalama: sayfa hesapları, '21–40 / 135 kayıt' bilgisi ve Bootstrap uyumlu sayfa bağlantıları",
+  "sahip": "Furkan003",
+  "sürümler": [
+    {
+      "izinler": [],
+      "işleme": "7d3671c07cdee1a64f4a666beedec20888095681",
+      "kaynak": "github:Furkan003/Orhunca#v1.1.1:kütüphaneler/sayfala",
+      "sürüm": "1.0.0",
+      "özet": "sha256:de2e9c17c831153ecc159fb4c303298ead3d8f735dbfa41cdfe52c9b0bc74944"
+    }
+  ]
+}

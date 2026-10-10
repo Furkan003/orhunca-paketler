@@ -1,0 +1,14 @@
+{
+  "ad": "karekod",
+  "açıklama": "QR kod (karekod) üretir: SVG, terminal ve web sayfası için; Wi-Fi, kartvizit, e-posta, SMS ve konum içerikleri",
+  "sahip": "Furkan003",
+  "sürümler": [
+    {
+      "izinler": [],
+      "işleme": "7d3671c07cdee1a64f4a666beedec20888095681",
+      "kaynak": "github:Furkan003/Orhunca#v1.1.1:kütüphaneler/karekod",
+      "sürüm": "1.0.0",
+      "özet": "sha256:50d27bad8bf9c006ca3a14c60d548b6fc09ccea4f4806f605d7a0b422f5c6bc5"
+    }
+  ]
+}

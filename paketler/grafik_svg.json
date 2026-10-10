@@ -1,0 +1,14 @@
+{
+  "ad": "grafik_svg",
+  "açıklama": "Web sayfaları ve raporlar için SVG grafikler: çubuk, çizgi ve halka; renk körlüğüne uygun palet, koyu tema, tablo görünümü",
+  "sahip": "Furkan003",
+  "sürümler": [
+    {
+      "izinler": [],
+      "işleme": "7d3671c07cdee1a64f4a666beedec20888095681",
+      "kaynak": "github:Furkan003/Orhunca#v1.1.1:kütüphaneler/grafik_svg",
+      "sürüm": "1.0.0",
+      "özet": "sha256:ab142172d81f9ddbb3ab4c69f4c6605eed1da6c7d7a01da282afb517f99c7c7d"
+    }
+  ]
+}

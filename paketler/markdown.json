@@ -1,0 +1,14 @@
+{
+  "ad": "markdown",
+  "açıklama": "Markdown metnini güvenli HTML'ye çevirir: başlık, liste, tablo, kod, bağlantı, alıntı, görev listesi (blog, yorum, belge sayfaları için)",
+  "sahip": "Furkan003",
+  "sürümler": [
+    {
+      "izinler": [],
+      "işleme": "7d3671c07cdee1a64f4a666beedec20888095681",
+      "kaynak": "github:Furkan003/Orhunca#v1.1.1:kütüphaneler/markdown",
+      "sürüm": "1.0.0",
+      "özet": "sha256:0b2bcfcabdf545251538180ad43d1c0827fd97430a26cbf30fec57f6cf3d45d7"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "ad": "barkod",
+  "açıklama": "Barkod üretir: Code 128 (ürün kodu, kargo, demirbaş) ve EAN-13 / EAN-8 (market ürünleri), SVG olarak",
+  "sahip": "Furkan003",
+  "sürümler": [
+    {
+      "izinler": [],
+      "işleme": "7d3671c07cdee1a64f4a666beedec20888095681",
+      "kaynak": "github:Furkan003/Orhunca#v1.1.1:kütüphaneler/barkod",
+      "sürüm": "1.0.0",
+      "özet": "sha256:0bcba3d32b3e003537eacfff04854d7183a1490ff64029099907f84fd8ddf8c2"
+    }
+  ]
+}
